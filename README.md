@@ -1,1 +1,2 @@
 # COMP20003-Project-1-2022
+This program is a simple dictionary based on a linked list that stores information about footpaths in Melbourne. The dictionary is built by reading data from a file and inserting each footpath record as a node in the linked list. Users can search the dictionary using attributes in the dataset as keys to retrieve information about footpaths. The program includes a method to search for a key in the list and outputs any matching records. Note that keys may not be unique.
